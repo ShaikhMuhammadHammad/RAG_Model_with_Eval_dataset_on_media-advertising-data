@@ -1,4 +1,4 @@
-# Thesis-Research-Paper-Code
+# RAG_model_with_Evaluation Dataset on media advertising data
 
 Use requirement.txt to install the depencies. 
 The code has heading explaining each code briefly.
